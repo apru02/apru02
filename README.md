@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hello, I'm Apratim! 👋
 
-<!--
-**apru02/apru02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions. Feel free to explore and connect with me.
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently studying/working on Data Science and Development.
+<!-- - 💡 I'm interested in [Your Interests], and I'm always eager to learn new technologies. -->
+- 🎓 I'm pursuing my education in Information Technology in IIEST, Shibpur.
+
+
+## 🔭 Projects
+
+Here are some highlighted projects I've worked on:
+
+- [Project 1](https://github.com/apru02/my_weather_app): MyWeather is a powerful web app developed in React.js, integrated with MyWeatherAPI. Get real-time weather updates, detailed forecasts, and comprehensive weather details for any location. Stay informed with accurate information on temperature, humidity, wind speed, and more..
+
+For more details about my projects, please explore my repositories.
+
+## 🌐 Connect with Me
+
+Let's connect and collaborate! You can find me on:
+
+- 📧 [Email](mailto: duttaapratim11@gmail.com)
+- 🌐 [Website/Blog](https://apru02.github.io/apratim.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/apratim-dutta-b068bb1ba/)
+- 📷 [Instagram](https://www.instagram.com/apru_02/?hl=en)
+
+Feel free to reach out if you have any questions or would like to discuss any projects or collaborations. I'm always excited to connect with fellow developers and share knowledge!
+
+
+
+
