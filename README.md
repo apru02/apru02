@@ -21,7 +21,7 @@ For more details about my projects, please explore my repositories.
 
 Let's connect and collaborate! You can find me on:
 
-- 📧 [Email](mailto: duttaapratim11@gmail.com)
+- 📧 [Email](duttaapratim11@gmail.com)
 - 🌐 [Website/Blog](https://apru02.github.io/apratim.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/apratim-dutta-b068bb1ba/)
 - 📷 [Instagram](https://www.instagram.com/apru_02/?hl=en)
