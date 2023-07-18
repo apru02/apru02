@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects and c
 
 ## 🧑‍💻 About Me
 
-- 🌱 I'm currently studying/working on Data Science and Development.
+- 🌱 I'm currently studying/working on Web Development and Data Science.
 <!-- - 💡 I'm interested in [Your Interests], and I'm always eager to learn new technologies. -->
 - 🎓 I'm pursuing my education in Information Technology in IIEST, Shibpur.
 
