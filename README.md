@@ -25,6 +25,7 @@ Event Manager Dashboard: An open-source web app for event management. Create, ma
 
 For more details about my projects, please explore my repositories.
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apru02)](https://github.com/apru02/github-readme-stats)
 <!-- Connect with Me -->
 ## 🌐 Connect with Me
 
