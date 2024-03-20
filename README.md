@@ -14,16 +14,21 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects and c
 ## 🔭 Projects
 
 Here are some highlighted projects I've worked on:
+### [Fantasy XI Predictor](https://github.com/apru02/Fantasy-XI-Predictor)
 
-### [MyWeather](https://github.com/apru02/my_weather_app)
-
-MyWeather is a powerful web app developed in React.js, integrated with MyWeatherAPI. Get real-time weather updates, detailed forecasts, and comprehensive weather details for any location. Stay informed with accurate information on temperature, humidity, wind speed, and more.
+IPL Dream XI predictor using an ANN model
 
 ### [Event Manager Dashboard](https://github.com/apru02/Event-Manager-Dashboard)
 
 Event Manager Dashboard: An open-source web app for event management. Create, manage, and track events with ease. Features include event creation, task checklists, collaboration management. Built with HTML, CSS, JavaScript, and React.js. User-friendly and efficient.
 
 For more details about my projects, please explore my repositories.
+
+### [MyWeather](https://github.com/apru02/my_weather_app)
+
+MyWeather is a powerful web app developed in React.js, integrated with MyWeatherAPI. Get real-time weather updates, detailed forecasts, and comprehensive weather details for any location. Stay informed with accurate information on temperature, humidity, wind speed, and more.
+
+
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apru02)](https://github.com/apru02/github-readme-stats)
 <!-- Connect with Me -->
