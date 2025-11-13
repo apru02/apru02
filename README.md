@@ -51,7 +51,7 @@ _For more, explore my [repositories →](https://github.com/apru02?tab=repositor
 - 💻 **LeetCode:** [apru_02](https://leetcode.com/apru_02/)  
 - 🍴 **CodeChef:** [apru_2002](https://www.codechef.com/users/apru_2002)  
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apru02)](https://github.com/apru02/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apru02&hide=javascript,css,scss,html&theme=tokyonight)
 
 ---
 
