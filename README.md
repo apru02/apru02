@@ -1,50 +1,67 @@
-<!-- Title -->
-# Hello, I'm Apratim! 👋
+# 👋 Hello, I'm Apratim Dutta  
 
-<!-- Introduction -->
-Welcome to my GitHub profile! Here you'll find a collection of my projects and contributions. Feel free to explore and connect with me.
+### 💻 Software Engineer at [SiteMaster.ai](https://sitemaster.ai)  
+### 🎓 Final-year Information Technology Student at IIEST, Shibpur  
 
-<!-- About Me -->
-## 🧑‍💻 About Me
+---
 
-- 🌱 Currently studying/working on Data Structures and Algorithms alongside Web Development.
-- 🎓 Pursuing a degree in Information Technology at IIEST, Shibpur.
+## 🧠 About Me  
 
-<!-- Projects -->
-## 🔭 Projects
+I’m a passionate **Software Engineer** with strong interests in **Full-Stack Development**, **Machine Learning**, and **Competitive Programming**.  
+I enjoy solving challenging problems, building scalable products, and contributing to impactful projects.  
 
-Here are some highlighted projects I've worked on:
-### [Fantasy XI Predictor](https://github.com/apru02/Fantasy-XI-Predictor)
+- 🌱 Currently exploring advanced **System Design** and **Scalable Web Architectures**  
+- 💼 Building user-driven solutions at **SiteMaster.ai**  
+- 💡 Specialist on **Codeforces (Rating: 1460)**  
 
-IPL Dream XI predictor using an ANN model
+---
 
-### [Event Manager Dashboard](https://github.com/apru02/Event-Manager-Dashboard)
+## 🚀 Projects  
 
-Event Manager Dashboard: An open-source web app for event management. Create, manage, and track events with ease. Features include event creation, task checklists, collaboration management. Built with HTML, CSS, JavaScript, and React.js. User-friendly and efficient.
+### [Karnataka State Police DataThon 2024](https://github.com/apru02/KSP-DATATHON)  
+Developed a **Predictive Crime Analysis System** for the Karnataka State Police, leveraging **Machine Learning (scikit-learn)** to analyze crime data from 2016–2024.  
+Performed **spatial and temporal analytics**, identified socio-economic correlations, and trained predictive models for crime risk assessment.
 
-For more details about my projects, please explore my repositories.
+### [Fantasy XI Predictor](https://github.com/apru02/Fantasy-XI-Predictor)  
+An **ANN-based IPL Dream XI predictor** that uses player statistics and performance data to suggest optimal team compositions.
 
-### [MyWeather](https://github.com/apru02/my_weather_app)
+### [Event Manager Dashboard](https://github.com/apru02/Event-Manager-Dashboard)  
+An open-source **React.js** web app for end-to-end event management. Features include task tracking, collaboration tools, and analytics dashboards for event organizers.
 
-MyWeather is a powerful web app developed in React.js, integrated with MyWeatherAPI. Get real-time weather updates, detailed forecasts, and comprehensive weather details for any location. Stay informed with accurate information on temperature, humidity, wind speed, and more.
+### [MyWeather](https://github.com/apru02/my_weather_app)  
+A sleek **React.js** weather app integrated with MyWeatherAPI. Provides real-time updates, forecasts, and detailed climate metrics for any location.
 
+_For more, explore my [repositories →](https://github.com/apru02?tab=repositories)_
 
+---
+
+## 🧩 Skills  
+
+**Frontend:** React, React Native, Android, iOS, JavaScript, TypeScript, HTML5, CSS3  
+**Backend:** Node.js, Django, Python  
+**Programming Languages:** C++, JavaScript, Python  
+**DevOps / Tools:** Git, GitHub, CI/CD, Azure, Redis, Agile  
+**Other:** Android Studio, REST APIs, Data Visualization  
+
+---
+
+## 📊 Competitive Programming  
+
+- 🧠 **Codeforces:** [Specialist (1460)](https://codeforces.com/profile/apru_02)  
+- 💻 **LeetCode:** [apru_02](https://leetcode.com/apru_02/)  
+- 🍴 **CodeChef:** [apru_2002](https://www.codechef.com/users/apru_2002)  
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=apru02)](https://github.com/apru02/github-readme-stats)
-<!-- Connect with Me -->
-## 🌐 Connect with Me
 
-Let's connect and collaborate! You can find me on:
+---
 
-- 📧 [Email](duttaapratim11@gmail.com)
-- 🌐 [Website/Blog](https://apru02.github.io/apratim.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/apratim-dutta-b068bb1ba/)
-- 📷 [Instagram](https://www.instagram.com/apru_02/?hl=en)
+## 🌐 Connect with Me  
 
-Coding Profiles:
+Let’s collaborate, discuss ideas, or build something great together!  
 
-- [LeetCode](https://leetcode.com/apru_02/)
-- [CodeForces](https://codeforces.com/profile/apru_02)
-- [CodeChef](https://www.codechef.com/users/apru_2002)
+- 📧 **Email:** [duttaapratim11@gmail.com](mailto:duttaapratim11@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/apratim-dutta-b068bb1ba](https://www.linkedin.com/in/apratim-dutta-b068bb1ba/)  
+- 🌍 **Portfolio:** [apru02.github.io/apratim.github.io](https://apru02.github.io/apratim.github.io/)  
+- 📷 **Instagram:** [@apru_02](https://www.instagram.com/apru_02/?hl=en)  
 
-Feel free to reach out if you have any questions or would like to discuss any projects or collaborations. I'm always excited to connect with fellow developers and share knowledge!
+---
