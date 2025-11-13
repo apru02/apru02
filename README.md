@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Apratim Dutta  
 
 ### 💻 Software Engineer at [SiteMaster.ai](https://sitemaster.ai)  
-### 🎓 B.Tech in Information Technology Student from IIEST, Shibpur  
+### 🎓 B.Tech in Information Technology from IIEST, Shibpur  
 
 ---
 
